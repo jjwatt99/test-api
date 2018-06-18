@@ -4,8 +4,8 @@
 		"timestamp":1529339985,
 		"success":true,
 		"result":[
-			{"code":"BTC","amount":"0.0000000"},
-			{"code":"ETH","amount":"0.0000000"},
+			{"code":"BTC","amount":"4.2300000"},
+			{"code":"ETH","amount":"1.0000000"},
 			{"code":"XLM","amount":"0.0000000"},
 			{"code":"MOBI","amount":"0.0000000"}
 		]
